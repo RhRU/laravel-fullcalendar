@@ -1,16 +1,16 @@
 {
-    "name": "maddhatter/laravel-fullcalendar",
+    "name": "rhru/laravel-fullcalendar-6",
     "description": "Laravel helper for FullCalendar.io",
     "license": "MIT",
     "authors": [
         {
-            "name": "Shawn Tunney",
-            "email": "shawn.tunney@gmail.com"
+            "name": "Marijan Gudelj",
+            "email": "maky.st@gmail.com"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        ""illuminate/support": "~5.0|^6.0"
+        "illuminate/support": "^6.0"
     },
     "autoload": {
         "psr-0": {
